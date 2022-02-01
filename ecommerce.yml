@@ -1,0 +1,6 @@
+token:
+  expiration_time:86400000
+  secret: usertoken
+
+gateway:
+  ip: 220.71.86.155
